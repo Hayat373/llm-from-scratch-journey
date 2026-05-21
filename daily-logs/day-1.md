@@ -22,9 +22,17 @@ Master LLMs from scratch, build a strong GitHub portfolio, get job-ready skills.
 - [ ] Took notes on tokenization, bigram model, and self-attention
 
 **Key Learnings**
+**Encoder**: Good for understanding (e.g., BERT) - bidirectional.
+- **Decoder**: Good for generation (e.g., GPT) - unidirectional (only looks left to right).
+- Full Transformer (Encoder + Decoder): Used in translation (T5, etc.).
+
+I understand the high-level architecture:
+- Embeddings → Positional Encoding → Multiple Transformer Blocks (Self-Attention + Feed Forward) → Output Layer
+
 
 
 **Challenges / Questions**
+The actual code implementation of self-attention and training loop still feels overwhelming.
 
 
 **Next Day Plan**
