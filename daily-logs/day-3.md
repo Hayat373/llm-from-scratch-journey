@@ -10,10 +10,5 @@
 - [ ] Trained a deeper model
 - [ ] Generated better text than Day 2
 
-**Key Learnings**
-
-
-**Challenges**
-
 
 **GitHub Commit Link** [https://github.com/Hayat373/llm-from-scratch-journey.git]

@@ -31,11 +31,4 @@ I understand the high-level architecture:
 
 
 
-**Challenges / Questions**
-The actual code implementation of self-attention and training loop still feels overwhelming.
-
-
-**Next Day Plan**
-
-
 **[GitHub Commit Link:](https://github.com/Hayat373/llm-from-scratch-journey.git)** 
