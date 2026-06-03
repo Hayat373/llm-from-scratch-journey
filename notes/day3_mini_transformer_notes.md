@@ -14,19 +14,14 @@
   - Softmax to get attention weights
   - Multiply by Value
 
-### 2. Residual Connections (`x = x + sublayer(x)`)
-- Very important trick in deep networks.
-- Helps gradients flow better during backpropagation.
-- Prevents vanishing gradients.
-
-### 3. LayerNorm
+### 2. LayerNorm
 - Normalizes the values in each layer (mean=0, std=1).
 - Makes training more stable.
 
-### 4. FeedForward Network
+### 3. FeedForward Network
 - Simple MLP (Linear → ReLU → Linear) applied to each position independently.
 
-### 5. Full Transformer Block
+### 4. Full Transformer Block
 - Attention (for communication between tokens) + FeedForward (for thinking individually) + Residuals + LayerNorm.
 
 ## My Current Level
