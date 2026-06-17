@@ -11,9 +11,17 @@
 - Optimized my RAG chatbot
 
 **Key Learnings**
-(To be filled after finishing)
+- Quantization reduces model size and memory usage dramatically (4-bit is very popular)
+- `BitsAndBytesConfig` with `load_in_4bit=True` makes it possible to run larger models on limited GPU
+- There is a small trade-off in quality but huge gain in speed and memory
+- This technique is essential for running good models on consumer hardware
 
 **Challenges**
-(To be filled)
+- Installing `bitsandbytes` sometimes needs extra setup
+- Slight degradation in response quality (but often acceptable)
+- Understanding when to use 4-bit vs 8-bit vs full precision
 
-**GitHub Commit:**
+**Reflection**
+Quantization is a game-changer for practical LLM usage. Now I can run better models without needing very powerful hardware.
+
+**GitHub Commit Link** [https://github.com/Hayat373/llm-from-scratch-journey.git]
