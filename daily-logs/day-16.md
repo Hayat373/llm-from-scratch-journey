@@ -10,10 +10,4 @@
 - Tested the public link
 - Prepared the first real shareable project
 
-**Key Learnings**
-(To be filled after finishing)
-
-**Challenges**
-(To be filled)
-
 **GitHub Commit Link** [https://github.com/Hayat373/llm-from-scratch-journey.git]
