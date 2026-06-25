@@ -59,7 +59,7 @@ To build a **strong foundation** in LLMs, gain real hands-on experience, and eve
 
 ### Connect With Me
 
-- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/hayat-ahmedjara)]
+- LinkedIn: https://www.linkedin.com/in/hayat-ahmedjara 
 - GitHub Portfolio (Coming Soon): [Will be added]
 
 ---
@@ -75,5 +75,5 @@ To build a **strong foundation** in LLMs, gain real hands-on experience, and eve
 ### How to Use This Repo
 This repository is my **learning journal**. Feel free to explore the daily logs and notes if you're also on an LLM learning journey.
 
----
+
 
