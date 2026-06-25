@@ -11,9 +11,16 @@
 - Prepared for the portfolio building phase
 
 **Key Learnings**
-(To be filled after finishing)
+- How to combine multiple techniques (RAG, prompting, memory simulation) into one system
+- The importance of clean code structure and integration
+- Realizing how far I have come in 29 days
 
 **Challenges**
-(To be filled)
+- LangChain import issues and version problems
+- Managing context length when combining RAG and history
+- Small model limitations (speed and consistency)
+
+**Reflection**
+Today I took a step back to see the big picture. I now have practical experience with most core LLM techniques. It's time to shift focus toward polishing and showcasing these skills in a professional portfolio.
 
 **GitHub Commit Link** [https://github.com/Hayat373/llm-from-scratch-journey.git]
