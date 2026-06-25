@@ -56,4 +56,3 @@ This is why companies invest heavily in good RAG pipelines.
 - Build evaluation system for RAG
 - Create a production-ready RAG application
 
-**Personal Note:** Advanced RAG is one of the most practical and in-demand skills right now.
