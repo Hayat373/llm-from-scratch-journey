@@ -5,15 +5,23 @@
 **Focus:** Advanced RAG + Evaluation
 
 **What I Did**
-- Improved RAG with better chunking and reranking
-- Implemented LLM-as-a-Judge for evaluation
-- Tested the improved RAG system
-- Evaluated response quality
+- Implemented advanced chunking strategies
+- Added LLM-as-a-Judge for automatic evaluation
+- Tested improved RAG system with better retrieval
+- Evaluated response quality and faithfulness
 
 **Key Learnings**
-(To be filled after finishing)
+- RecursiveCharacterTextSplitter is better than simple splitting
+- LLM-as-a-Judge is useful for automatic evaluation
+- Good chunking and reranking significantly improve RAG performance
+- Evaluation is crucial for measuring real improvement
 
 **Challenges**
-(To be filled)
+- Balancing chunk size and overlap
+- Getting consistent judge scores from small models
+- Managing context length
 
-**GitHub Commit:**
+**Reflection**
+Advanced RAG and evaluation are essential for building reliable LLM applications. This day helped me understand how to measure and improve system quality.
+
+**GitHub Commit Link** [https://github.com/Hayat373/llm-from-scratch-journey.git]
